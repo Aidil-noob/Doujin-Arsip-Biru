@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Detail</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="detail"></div>
+<div id="reader"></div>
+
+<script>
+const data = JSON.parse(localStorage.getItem("doujinData"));
+const id = localStorage.getItem("selectedId");
+
+const item = data.find(d => d.id == id);
+
+document.getElementById("detail").innerHTML = `
+  <h2>${item.judul}</h2>
+  <p>Author: ${item.author}</p>
+  <p>Karakter: ${item.karakter.join(", ")}</p>
+  <p>Genre: ${item.genre.join(", ")}</p>
+`;
+
+let reader = document.getElementById("reader");
+
+item.halaman.forEach(img => {
+  reader.innerHTML += `<img src="${img}" style="width:100%">`;
+});
+</script>
+
+</body>
+</html>
