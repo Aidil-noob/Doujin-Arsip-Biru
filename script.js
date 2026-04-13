@@ -6,10 +6,10 @@ fetch('data.json')
     data.forEach(item => {
       container.innerHTML += `
         <div class="card" onclick="goDetail(${item.id})">
-          <img src="${item.sampul}">
-          <div class="halaman">${item.halaman.length} halaman</div> 
-          <div class="title">${item.judul}</div>
-          <div class="bahasa">Bahasa:${item.bahasa}</div>
+            <img src="${item.sampul}">
+            <div class="title">${item.judul}</div>
+            <div class="bahasa">Bahasa:${item.bahasa}</div>
+            <div class="halaman">${item.halaman.length} halaman</div> 
         </div>
       `;
     });

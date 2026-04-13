@@ -19,12 +19,12 @@ h1 {
   border-radius: 10px;
   padding: 10px;
   cursor: pointer;
-  position: relative;
 }
 
 .card img {
   width: 100%;
   border-radius: 10px;
+  display: block;
 }
 
 .bahasa {
@@ -55,12 +55,5 @@ h1 {
 }
 
 .halaman {
-  position: absolute;
-  bottom: 5px;
-  right: 5px;
-  background: rgba(0,0,0,0,7);
-  color: #fff;
-  padding: 3px 6px;
-  font-size: 30px;
-  border-radius: 5px;
+  
 }
