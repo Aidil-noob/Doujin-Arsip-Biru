@@ -7,8 +7,9 @@ fetch('data.json')
       container.innerHTML += `
         <div class="card" onclick="goDetail(${item.id})">
           <img src="${item.sampul}">
+          <div class="halaman">${item.halaman.length} halaman</div> 
           <div class="title">${item.judul}</div>
-          <div class="tag">Bahasa:${item.bahasa}</div>
+          <div class="bahasa">Bahasa:${item.bahasa}</div>
         </div>
       `;
     });
