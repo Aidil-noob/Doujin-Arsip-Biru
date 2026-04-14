@@ -19,10 +19,20 @@ document.getElementById("detail").innerHTML = `
   <h2>${item.judul}</h2>
   <p>Author: ${item.author}</p>
   <p>Karakter: ${item.karakter.join(", ")}</p>
-  <p>Genre: ${item.genre.join(", ")}</p>
+  <p>Genre:</p>
+  <div id="genre"></div>
+
+document.getElementById("genre").innerHTML = genreHTML;
 `;
 
 let reader = document.getElementById("reader");
+
+let genreHTML = item.genre
+  .filter(g => g && g !== "-")
+  .map(g => `<span class="genre-tag">${g}</span>`)
+  .join("");
+
+document.getElementById("genre").innerHTML = genreHTML;
 
 item.halaman.forEach(img => {
   reader.innerHTML += `<img src="${img}" style="width:100%">`;

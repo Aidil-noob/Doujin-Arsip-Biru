@@ -19,6 +19,8 @@ h1 {
   border-radius: 10px;
   padding: 10px;
   cursor: pointer;
+  position: relative;
+  display: inline-block;
 }
 
 .card img {
@@ -29,11 +31,13 @@ h1 {
 
 .bahasa {
   font-size: 35px;
+  padding: 10px;
 }
 
-.title {
+.judul {
   font-weight: bold;
   margin-top: 5px;
+  padding: 10px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -50,10 +54,33 @@ h1 {
 }
 
 .box {
-  background-color: #452d57;
+  background-color: #2a2c3c;
   color: #ffffff;
 }
 
 .halaman {
-  
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 5px;
+  background-color: #00000053;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#genre {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 5px;
+}
+
+.genre-tag {
+  background: rgba(255,255,255,0.1);
+  color: #ddd;
+  padding: 6px 12px;
+  border-radius: 999px; /* bikin bulat */
+  font-size: 12px;
+  border: 1px solid rgba(255,255,255,0.2);
 }
