@@ -18,19 +18,25 @@ const item = data.find(d => d.id == id);
 document.getElementById("detail").innerHTML = `
   <h2>${item.judul}</h2>
   <p>Author: ${item.author}</p>
-  <p>Karakter: ${item.karakter.join(", ")}</p>
+  <p>Karakter:</p>
+  <div id="karakter"></div>
   <p>Genre:</p>
   <div id="genre"></div>
-
-document.getElementById("genre").innerHTML = genreHTML;
 `;
 
 let reader = document.getElementById("reader");
 
-let genreHTML = item.genre
-  .filter(g => g && g !== "-")
-  .map(g => `<span class="genre-tag">${g}</span>`)
+let karakterHTML = item.karakter
+  .filter(k => k && k !== "-")
+  .map(k => `<span class="karakter-tag">${k}</span>`)
   .join("");
+  
+document.getElementById("karakter").innerHTML = karakterHTML;
+
+let genreHTML = item.genre
+  .filter(g => g && g !== "-") // buang yang kosong & buang placeholder
+  .map(g => `<span class="genre-tag">${g}</span>`) //ubah ke html
+  .join(""); //gabungin data
 
 document.getElementById("genre").innerHTML = genreHTML;
 
