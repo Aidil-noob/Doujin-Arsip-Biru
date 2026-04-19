@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "judul": "Love It #1",
+    "judul": "Love It (Only) One",
     "author": "Kinnotama",
     "karakter": ["Sensei", "Tsukiyuki Miyako"],
     "genre": 
@@ -92,7 +92,7 @@
   },
   {
     "id": 3,
-    "judul": "Iroha Yoku #1",
+    "judul": "Iroha Yoku Sexual Desire",
     "karakter": ["Sensei", "Natsume Iroha"],
     "author": "Kinnotama",
     "genre": 
@@ -486,6 +486,65 @@
       "data/Sensei, Seikoui Jisshuu Shimashou/22.webp",
       "data/Sensei, Seikoui Jisshuu Shimashou/23.webp",
       "data/Sensei, Seikoui Jisshuu Shimashou/24.webp"
+    ]
+  },
+  {
+    "id": 11,
+    "judul": "Ama Kikyou no Dokusenyoku",
+    "karakter": ["Sensei", "Kiryuu Kikyou"],
+    "author": "madoka tsukumo",
+    "genre":
+    [
+      "Tsukuten",
+      "Sole Male",
+      "Sole Female",
+      "Catgirl",
+      "Halo",
+      "Kemonomimi",
+      "Multiple Tails",
+      "Tail"
+    ],
+    "sampul": "data/Ama Kikyou no Dokusenyoku/01.jpg",
+    "bahasa": "🇬🇧",
+    "halaman": 
+    [ 
+      "data/Ama Kikyou no Dokusenyoku/01.jpg",
+      "data/Ama Kikyou no Dokusenyoku/02.jpg",
+      "data/Ama Kikyou no Dokusenyoku/03.jpg",
+      "data/Ama Kikyou no Dokusenyoku/04.jpg",
+      "data/Ama Kikyou no Dokusenyoku/05.jpg",
+      "data/Ama Kikyou no Dokusenyoku/06.jpg",
+      "data/Ama Kikyou no Dokusenyoku/07.jpg",
+      "data/Ama Kikyou no Dokusenyoku/08.jpg",
+      "data/Ama Kikyou no Dokusenyoku/09.jpg",
+      "data/Ama Kikyou no Dokusenyoku/10.jpg",
+      "data/Ama Kikyou no Dokusenyoku/11.jpg",
+      "data/Ama Kikyou no Dokusenyoku/12.jpg",
+      "data/Ama Kikyou no Dokusenyoku/13.jpg",
+      "data/Ama Kikyou no Dokusenyoku/14.jpg",
+      "data/Ama Kikyou no Dokusenyoku/15.jpg",
+      "data/Ama Kikyou no Dokusenyoku/16.jpg",
+      "data/Ama Kikyou no Dokusenyoku/17.jpg",
+      "data/Ama Kikyou no Dokusenyoku/18.jpg",
+      "data/Ama Kikyou no Dokusenyoku/19.jpg",
+      "data/Ama Kikyou no Dokusenyoku/20.jpg",
+      "data/Ama Kikyou no Dokusenyoku/21.jpg",
+      "data/Ama Kikyou no Dokusenyoku/22.jpg",
+      "data/Ama Kikyou no Dokusenyoku/23.jpg",
+      "data/Ama Kikyou no Dokusenyoku/24.jpg",
+      "data/Ama Kikyou no Dokusenyoku/25.jpg",
+      "data/Ama Kikyou no Dokusenyoku/26.jpg",
+      "data/Ama Kikyou no Dokusenyoku/27.jpg",
+      "data/Ama Kikyou no Dokusenyoku/28.jpg",
+      "data/Ama Kikyou no Dokusenyoku/29.jpg",
+      "data/Ama Kikyou no Dokusenyoku/30.jpg",
+      "data/Ama Kikyou no Dokusenyoku/31.jpg",
+      "data/Ama Kikyou no Dokusenyoku/32.jpg",
+      "data/Ama Kikyou no Dokusenyoku/33.jpg",
+      "data/Ama Kikyou no Dokusenyoku/34.jpg",
+      "data/Ama Kikyou no Dokusenyoku/35.jpg",
+      "data/Ama Kikyou no Dokusenyoku/36.jpg",
+      "data/Ama Kikyou no Dokusenyoku/37.jpg"
     ]
   }
 ]
