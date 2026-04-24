@@ -448,7 +448,7 @@
   {
     "id": 10,
     "judul": "Sensei, Seikoui Jisshuu Shimashou?",
-    "karakter": ["Sensei", "Niko"],
+    "karakter": ["Sensei", "Yoshino Niko"],
     "author": "yakob",
     "genre": 
     [
@@ -686,6 +686,46 @@
       "data/The Autumn Rain Melts The Snow/24.webp",
       "data/The Autumn Rain Melts The Snow/25.webp",
       "data/The Autumn Rain Melts The Snow/27.webp"
+    ]
+  },
+  {
+    "id": 15,
+    "judul": "I Can't Possibly Put It Inside an Automaton Girl!",
+    "karakter": ["Sensei", "Tendou Kei"],
+    "author": "gokubuto mayuge",
+    "genre":
+    [
+      "Sole Female",
+      "Sole Male",
+      "Lolicon",
+      "Impregnation",
+      "Very Long Hair",
+      "Halo"
+    ],
+    "sampul": "data/I Can't Possibly Put It Inside an Automaton Girl!/01.webp",
+    "bahasa": "🇬🇧",
+    "halaman":
+    [
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/01.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/02.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/03.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/04.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/05.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/06.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/07.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/08.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/09.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/10.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/11.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/12.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/13.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/14.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/15.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/16.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/17.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/18.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/19.webp",
+      "data/I Can't Possibly Put It Inside an Automaton Girl!/20.webp"
     ]
   }
 ]
