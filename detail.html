@@ -17,7 +17,8 @@ const item = data.find(d => d.id == id);
 
 document.getElementById("detail").innerHTML = `
   <h2>${item.judul}</h2>
-  <p>Author: ${item.author}</p>
+  <p>Author:</p>
+  <div id="author"></div>
   <p>Karakter:</p>
   <div id="karakter"></div>
   <p>Genre:</p>
@@ -25,6 +26,13 @@ document.getElementById("detail").innerHTML = `
 `;
 
 let reader = document.getElementById("reader");
+
+let authorHTML = item.author
+  .filter(a => a && a !== "-")
+  .map(a => `<span class="author-tag">${a}</span>`)
+  .join("");
+  
+document.getElementById("author").innerHTML = authorHTML;
 
 let karakterHTML = item.karakter
   .filter(k => k && k !== "-")

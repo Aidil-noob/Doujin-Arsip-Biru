@@ -1,16 +1,12 @@
 body {
-  background-color: #301743;
-  color: white;
-  font: bold 40px Sans-Serif;
-}
-
-h1 {
-  text-align: center;
+  background-color: #f8f1f1;
+  color: black;
+  font: bold 20px 'Comic Neue' cursive;
 }
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 15px;
 }
 
@@ -27,10 +23,11 @@ h1 {
   width: 100%;
   border-radius: 10px;
   display: block;
+  height: auto;
 }
 
 .bahasa {
-  font-size: 35px;
+  font-size: 20px;
   padding: 10px;
 }
 
@@ -49,7 +46,7 @@ h1 {
 
 #detail {
   border-radius: 10px;
-  padding: 30px;
+  padding: 20px;
   margin-bottom: 75px;
 }
 
@@ -69,18 +66,33 @@ h1 {
   margin-right: 10px;
 }
 
-#genre, #karakter {
+#genre, #karakter, #author {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
   margin-top: 10px;
 }
 
-.genre-tag, .karakter-tag {
+.genre-tag, .karakter-tag, .author-tag {
   background: rgba(255,255,255,0.1);
   color: #ddd;
   padding: 6px 12px;
   border-radius: 999px; /* bikin bulat */
-  font-size: 40px;
+  font-size: 20px;
   border: 1px solid rgba(255,255,255,0.2);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
+
+.logo {
+  height: 40px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  width: 100%;
+  background-color: #380099;
+  justify-content: center;
 }
