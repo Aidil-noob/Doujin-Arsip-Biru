@@ -2,7 +2,6 @@ fetch('data.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById("list");
-    document.title = item.judul;
 
     data.forEach(item => {
       container.innerHTML += `
