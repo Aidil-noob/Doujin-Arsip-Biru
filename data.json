@@ -147,7 +147,7 @@
     "id": 4,
     "judul": "Sweet Nuts",
     "karakter": ["Sensei", "Yutori Natsu"],
-    "author": ["kamanbeer"],
+    "author": ["Kamanbeer"],
     "genre": 
     [
       "Sole Female", 
@@ -726,6 +726,52 @@
       "data/I Can't Possibly Put It Inside an Automaton Girl!/18.webp",
       "data/I Can't Possibly Put It Inside an Automaton Girl!/19.webp",
       "data/I Can't Possibly Put It Inside an Automaton Girl!/20.webp"
+    ]
+  },
+  {
+    "id": 16,
+    "judul": "Sensei~? Got a Sec?",
+    "karakter": ["Sensei", "Nakamasa Ichika"],
+    "author": ["Kumada"],
+    "genre":
+    [
+      "Sole Female",
+      "Sole Male",
+      "Glasses",
+      "Closed Eyes",
+      "Schoolgirl Uniform",
+      "Halo",
+      "Wings"
+    ],
+    "sampul": "data/Sensei, Got a Sec/01.jpg",
+    "bahasa": "🇬🇧",
+    "halaman":
+    [
+      "data/Sensei, Got a Sec/01.jpg",
+      "data/Sensei, Got a Sec/02.jpg",
+      "data/Sensei, Got a Sec/03.jpg",
+      "data/Sensei, Got a Sec/04.jpg",
+      "data/Sensei, Got a Sec/05.jpg",
+      "data/Sensei, Got a Sec/06.jpg",
+      "data/Sensei, Got a Sec/07.jpg",
+      "data/Sensei, Got a Sec/08.jpg",
+      "data/Sensei, Got a Sec/09.jpg",
+      "data/Sensei, Got a Sec/10.jpg",
+      "data/Sensei, Got a Sec/11.jpg",
+      "data/Sensei, Got a Sec/12.jpg",
+      "data/Sensei, Got a Sec/13.jpg",
+      "data/Sensei, Got a Sec/14.jpg",
+      "data/Sensei, Got a Sec/15.jpg",
+      "data/Sensei, Got a Sec/16.jpg",
+      "data/Sensei, Got a Sec/17.jpg",
+      "data/Sensei, Got a Sec/18.jpg",
+      "data/Sensei, Got a Sec/19.jpg",
+      "data/Sensei, Got a Sec/20.jpg",
+      "data/Sensei, Got a Sec/21.jpg",
+      "data/Sensei, Got a Sec/22.jpg",
+      "data/Sensei, Got a Sec/23.jpg",
+      "data/Sensei, Got a Sec/24.jpg",
+      "data/Sensei, Got a Sec/25.jpg"
     ]
   }
 ]
