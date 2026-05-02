@@ -1,4 +1,4 @@
-fetch('http://localhost:8080/api.php?action=list')
+fetch('data.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById("list");
