@@ -2,7 +2,7 @@
   {
     "id": 1,
     "judul": "Love It (Only) One",
-    "author": ["kinnotama"],
+    "author": ["Kinnotama"],
     "karakter": ["Sensei", "Tsukiyuki Miyako"],
     "genre": 
     [
@@ -53,7 +53,7 @@
     "id": 2,
     "judul": "Alice mo Gohoushi ga Shitaidesu",
     "karakter": ["Sensei", "Tendou Arisu"],
-    "author": ["tomo"],
+    "author": ["Tomo"],
     "genre": 
     [
       "Maid",
@@ -94,7 +94,7 @@
     "id": 3,
     "judul": "Sexual Desire",
     "karakter": ["Sensei", "Natsume Iroha"],
-    "author": ["kinnotama"],
+    "author": ["Kinnotama"],
     "genre": 
     [
       "Ahegao", 
@@ -192,7 +192,7 @@
     "id": 5,
     "judul": "Saiminjutsu nante Occult ga Aru Wake Nai ja Nai!",
     "karakter": ["Sensei", "Kinui Rena"],
-    "author": ["gokubuto mayuge"],
+    "author": ["Gokubuto Mayuge"],
     "genre": 
     [
       "Sole Female", 
@@ -281,7 +281,7 @@
     "id": 7,
     "judul": "Mari Morning Delight!?",
     "karakter": ["Sensei", "Iochi Mari"],
-    "author": ["mary-san"],
+    "author": ["Mary-san"],
     "genre": 
     [
       "NNL", 
@@ -378,7 +378,7 @@
     "id": 9,
     "judul": "Dancing Crazy Teacher",
     "karakter": ["Sensei", "Itagaki Kanoe"],
-    "author": ["sharekoube"],
+    "author": ["Sharekoube"],
     "genre": 
     [
       "Sole Female", 
@@ -449,7 +449,7 @@
     "id": 10,
     "judul": "Sensei, Seikoui Jisshuu Shimashou?",
     "karakter": ["Sensei", "Yoshino Niko"],
-    "author": ["yakob"],
+    "author": ["Yakob"],
     "genre": 
     [
       "Sole Female", 
@@ -494,7 +494,7 @@
     "id": 11,
     "judul": "Ama Kikyou no Dokusenyoku",
     "karakter": ["Sensei", "Kiryuu Kikyou"],
-    "author": ["madoka tsukumo"],
+    "author": ["Madoka Tsukumo"],
     "genre":
     [
       "Tsukuten",
@@ -553,7 +553,7 @@
     "id": 12,
     "judul": "Kaisou no Ejiki",
     "karakter": ["Sensei", "Itagaki Kanoe"],
-    "author": ["madoka tsukumo"],
+    "author": ["Madoka Tsukumo"],
     "genre":
     [
       "Sole Female",
@@ -606,7 +606,7 @@
     "id": 13,
     "judul": "Occult nanka ja Nain dakara",
     "karakter": ["Sensei", "Kinui Rena"],
-    "author": ["ak"],
+    "author": ["AK"],
     "genre":
     [
       "Sole Female",
@@ -641,7 +641,7 @@
     "id": 14,
     "judul": "The Autumn Rain Melts The Snow",
     "karakter": ["Sensei", "Mayoi Shigure"],
-    "author": ["sinobiin"],
+    "author": ["Sinobiin"],
     "genre":
     [
       "Sole Female",
@@ -692,7 +692,7 @@
     "id": 15,
     "judul": "I Can't Possibly Put It Inside an Automaton Girl!",
     "karakter": ["Sensei", "Tendou Kei"],
-    "author": ["gokubuto mayuge"],
+    "author": ["Gokubuto Mayuge"],
     "genre":
     [
       "Sole Female",
@@ -816,6 +816,48 @@
       "data/Sakurai Miyo’s Romantic Feelings/23.webp",
       "data/Sakurai Miyo’s Romantic Feelings/24.webp",
       "data/Sakurai Miyo’s Romantic Feelings/25.webp"
+    ]
+  },
+  {
+    "id": 18,
+    "judul": "Nagaki Yo no Utsutsu ni Ochite",
+    "karakter": ["Sensei", "Misono Mika"],
+    "author": ["Kinokomushi"],
+    "genre":
+    [
+      "Sole Female",
+      "Sole Male",
+      "Swimsuit",
+      "Bikini",
+      "Rough Translation",
+      "Halo",
+      "Wings",
+      "Scanmark"
+    ],
+    "sampul": "data/Nagaki Yo no Utsutsu ni Ochite/1.webp",
+    "bahasa": "🇬🇧",
+    "halaman":
+    [
+      "data/Nagaki Yo no Utsutsu ni Ochite/1.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/2.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/3.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/4.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/5.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/6.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/7.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/8.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/9.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/10.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/11.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/12.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/13.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/14.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/15.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/16.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/17.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/18.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/19.webp",
+      "data/Nagaki Yo no Utsutsu ni Ochite/20.webp"
     ]
   }
 ]
